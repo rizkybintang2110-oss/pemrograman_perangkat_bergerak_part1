@@ -1,0 +1,15 @@
+# Nama Project
+
+Deskripsi singkat project ini.
+
+## Fitur
+- Fitur 1
+- Fitur 2
+- Fitur 3
+
+## Cara Install
+```bash
+git clone https://github.com/username/nama-repo.git
+cd nama-repo
+npm install
+npm start
